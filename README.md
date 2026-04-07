@@ -1,12 +1,23 @@
-# Cybersecurity Labs & Analysis
+# Cybersecurity Learning and Certification Path
 
-Documentation of hands-on labs and security concepts based on my ISC2 and Fortinet studies.
+This repository contains technical documentation, study notes, and official certificates obtained during my cybersecurity specialization.
 
-### Lab Categories:
-* **Network Security:** Firewall configurations and protocol analysis.
-* **Threat Intelligence:** Analyzing phishing, malware types, and attack vectors.
-* **Security Awareness:** Best practices for corporate environments.
+## Professional Certifications
+* Fortinet Certified Fundamentals (FCF) in Cybersecurity
+* ISC2 Certified in Cybersecurity (CC)
+* Fortinet Certified Associate (FCA) - Cybersecurity Fundamentals
+* National Cybersecurity Center (CNCS) - Cidadao Ciberseguro
+* Claude 101 | Anthropic Academy
 
-### Tools & Frameworks:
-* ISC2 CC Curriculum
-* Fortinet FCF Training
+## Education and Language Proficiency
+* GPSI Student at Escola Joaquim de Araujo
+* EF SET English Certificate: B2 Upper Intermediate
+* Technical English for Career Development (Alison Certified)
+
+## Repository Structure
+* Files: Official digital badges and PDF certificates are located in the main directory.
+* Notes: Technical summaries of security modules and threat analysis.
+
+## Contact and Verification
+* LinkedIn: www.linkedin.com/in/lara-adorno
+* Credly Profile:(https://www.credly.com/users/lara-adorno/edit#credly)

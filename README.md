@@ -8,6 +8,7 @@ This repository contains technical documentation, study notes, and official cert
 * Fortinet Certified Associate (FCA) - Cybersecurity Fundamentals
 * National Cybersecurity Center (CNCS) - Cidadao Ciberseguro
 * Claude 101 | Anthropic Academy
+* Cisco Certified: Networking Basics
 
 ## Education and Language Proficiency
 * GPSI Student at Escola Joaquim de Araujo
